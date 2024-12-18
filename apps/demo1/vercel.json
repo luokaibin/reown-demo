@@ -1,0 +1,6 @@
+{
+  "buildCommand": "echo \"build success\"",
+  "framework": "nextjs",
+  "installCommand": "echo \"install success\""
+
+}
